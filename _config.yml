@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Xinhao Kong"
-  avatar           : ""
+  avatar           : "avatar.jpg"
   bio              : 
   location         : "Beijing China"
   employer         :
@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "Xinhao Kong"
+  facebook         : "profile.php?id=100022185122780"
   foursquare       :
   github           : "Aianodive"
   google_plus      :
